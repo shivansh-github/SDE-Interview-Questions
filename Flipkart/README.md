@@ -89,5 +89,6 @@
 - There are billions of URL given. Come up with a efficient data structure that returns ip address of these urls.
 - Print the boundary of a tree.
 - Database Mgt System
+- Joins and its types
 - Given a large stream of strings, return the top 10 most frequently occurring string . (Hash map + min heap of size 10 is the solution.)
 - Trie data structure
